@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_resume">Resume</string>
+    <string name="button_lap">Lap</string>
+    <string name="clock">%1$s:%2$s:%3$s</string>
+    <string name="Lap">Lap %1$d:   %2$s</string>
+</resources>
